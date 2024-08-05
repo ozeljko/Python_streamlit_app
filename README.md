@@ -1,2 +1,2 @@
 # Python_streamlit_app
-My amateur attempt to use streamlit and webcam facial landmarks and heart rate BPM monitoring
+The idea is that the app detects early signs of a heart attack or stroke with a camera that everyone has, in order to increase the chance of reacting earlier. The modularity and addition of iris recognition, gestures, asymmetry, changes in blood pressure in the hands and so on, increases those chances. My amateur attempt to use streamlit and webcam facial landmarks and heart rate BPM monitoring
